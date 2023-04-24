@@ -9,7 +9,7 @@
   </test>
    <test name="RegistrationTest">
     <classes>
-      <class name="com.uiFramework.companyName.bhanuProjectName.testScripts.registration.RegistrationTest"/>
+      <class name="com."/>
     </classes>
   </test>
    <test name="VerifyLowestFirstPriceFilter">
